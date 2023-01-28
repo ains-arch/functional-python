@@ -45,7 +45,7 @@ def threes(n):
 
 def small_words(text):
     '''
-    Returns a list of all words in the input text that are less than 4
+    Returns a list of all words in the input text that are less than 5
     characters long.
 
     HINT:
